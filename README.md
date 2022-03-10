@@ -4,6 +4,7 @@ The purpose of this repository is to help new(er) members to learn more about FT
 
 # Resources 
 - [Latest FTC app releases](https://github.com/FIRST-Tech-Challenge/FtcRobotController/releases)
+- [Learn Java for FTC](https://raw.githubusercontent.com/alan412/LearnJavaForFTC/master/LearnJavaForFTC.pdf)
 - [Documentation for FTC programming](https://ftctechnh.github.io/ftc_app/doc/javadoc/)
 - [Game Manual 0](https://gm0.org/en/latest/docs/start-here.html)
 - [Game Manual 0 Resources](https://gm0.org/en/latest/docs/useful-resources.html)
