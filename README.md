@@ -2,10 +2,15 @@
 
 The purpose of this repository is to help new(er) members to learn more about FTC robotics. We have divided this across multiple weeks to focus on one topic at a time. Each week is divided into its own folder. 
 
-Week 1: Hardware (Motors)
-Week 2: Programming (Motors and Servos)
-Week 3: Working with Android Studio (if we get this far)
-Week 4: Using Git for version control (if we get this far)
+# Focuses
+Week 1: Hardware (Motors) 
+
+Week 2: Programming (Motors and Servos) 
+
+Week 3: Working with Android Studio (if we get this far) 
+
+Week 4: Using Git for version control (if we get this far) 
+
 
 # Resources 
 - [Latest FTC app releases](https://github.com/FIRST-Tech-Challenge/FtcRobotController/releases)
