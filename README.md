@@ -5,11 +5,13 @@ The purpose of this repository is to help out team's new(er) members to learn mo
 # Focuses
 Week 1: Hardware (Motors) 
 
-Week 2: Programming (Motors and Servos) 
+Week 2: Programming (Motors and Servos)
 
-Week 3: Working with Android Studio (if we get this far) 
+Week 3: Programming (Sensors)
 
 Week 4: Using Git for version control (if we get this far) 
+
+Week 5: Working with Android Studio (if we get this far) 
 
 
 # Resources 
@@ -19,4 +21,3 @@ Week 4: Using Git for version control (if we get this far)
 - [Game Manual 0](https://gm0.org/en/latest/docs/start-here.html)
 - [Game Manual 0 Resources](https://gm0.org/en/latest/docs/useful-resources.html)
 - [FTC Tutorials from FRC 8027 and FTC 13380](http://ftctutorials.com/en/Robot.html)
-
