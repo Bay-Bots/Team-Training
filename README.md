@@ -1,6 +1,6 @@
 # Team Training
 
-The purpose of this repository is to help out team's new(er) members to learn more about FTC robotics. We have divided this across multiple weeks to focus on one topic at a time. Each week is divided into its own folder. 
+The purpose of this repository is to help our team's new(er) members learn more about FTC robotics. We have divided this across multiple weeks to focus on one topic at a time. Each week is divided into its own folder. 
 
 # Focuses
 Week 1: Hardware (Motors) 
