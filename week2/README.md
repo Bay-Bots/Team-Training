@@ -5,16 +5,17 @@ Example code mentioned is also included below.
 
 Conditions:
 ```java
-     if (gamepad1.a) {
-        // do something...
-        exampleMotor.setPower(1.0);
-     }
-     else if (...) {
-        ...
-     }
-     else {
-        ...
-     }
-     ```
+... 
+if (gamepad1.a) {
+   // do something...
+   exampleMotor.setPower(1.0);
+}
+else if (...) {
+   ...
+}
+else {
+   ...
+}
+```
 
 
