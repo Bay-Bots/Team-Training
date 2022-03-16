@@ -5,7 +5,7 @@ The purpose of this repository is to help out team's new(er) members to learn mo
 # Focuses
 Week 1: Hardware (Motors) 
 
-Week 2: Programming (Motors and Servos)
+Week 2: Programming (Servos)
 
 Week 3: Programming (Sensors) and using Git (if there's time)
 
