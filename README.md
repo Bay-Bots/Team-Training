@@ -7,11 +7,12 @@ Week 1: Hardware (Motors)
 
 Week 2: Programming (Motors and Servos)
 
-Week 3: Programming (Sensors)
+Week 3: Programming (Sensors) and using Git (if there's time)
 
-Week 4: Using Git for version control (if we get this far) 
-
-Week 5: Working with Android Studio (if we get this far) 
+Possible future ideas: 
+- [ ] How to use Git
+- [ ] Working within Android Studio
+- [ ] Debugging practice 
 
 
 # Resources 
