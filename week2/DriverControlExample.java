@@ -21,7 +21,7 @@ public class DriverControlExample extends OpMode {
    *  - https://github.com/Bay-Bots/FTC-Freight-Frenzy
    * Good luck!
    */
-  private Servo; 
+  private testingServo; 
 
 
   @Override
