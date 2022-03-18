@@ -7,7 +7,7 @@ Week 1: Hardware (Motors)
 
 Week 2: Programming (Servos)
 
-Week 3: Programming (Sensors) and using Git (if there's time)
+Week 3: Pong bot competition
 
 Possible future ideas: 
 - [ ] How to use Git
